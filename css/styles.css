@@ -1,0 +1,13 @@
+.blurb h6 {
+	padding-left: 0;
+}
+
+.clientele {
+	margin: 20px auto;
+}
+
+
+ul.social-media-icons li {
+	list-style-type: none;
+	display: inline;
+}
