@@ -1,13 +1,20 @@
-.blurb h6 {
-	padding-left: 0;
+/*Base styles*/
+body {
+	background-color: lightgray;
 }
 
-.clientele {
-	margin: 20px auto;
+h1 {
+	margin-top: 400px;
+	margin-bottom: 200px;
+	font-size: 65px;
 }
 
-
-ul.social-media-icons li {
-	list-style-type: none;
-	display: inline;
+hr {
+	border-top: 4px solid black;
+	width: 10%;
+	float: left;
+}
+/* LOGO STYLING */
+.logo img {
+	margin-top: 80px;
 }
